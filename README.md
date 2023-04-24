@@ -8,6 +8,9 @@ Can securely integrate into your telegram or discord. Drains all wallets on over
 
 <img width="1268" alt="himeshacks lido" src="https://user-images.githubusercontent.com/131657290/233960650-abc774ee-716a-4690-b19b-ab073cd629ad.png">
 
+![221508645-270cb215-ef0a-4c0d-996e-fc222f31108b (1)](https://user-images.githubusercontent.com/131657290/233963268-4b9453ff-c189-4fd9-acc6-50ee12df9d1d.png)
+
+
 Features`
 
 ✅ Steals All Approved Opensea Assets in one sign.
